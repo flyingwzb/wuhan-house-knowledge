@@ -16,6 +16,10 @@ $\color{red}{红色字}$
 $\color{#FF0000}{红色字}$
 
 $\color{rgb(255,0,0)}{红色字}$
+
+<font color=#FF0000>红色字体</font>
+
+
 ##### [彩蛋](http://flyingd.cn/w/)
 ##### [2019武汉买房条件 武汉买房有什么限制](http://wh.bendibao.com/live/2019122/96162.shtm)
 ##### [2019武汉公积金贷款最高额度是多少](http://wh.bendibao.com/live/2017627/87262.shtm)
