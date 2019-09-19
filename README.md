@@ -1,6 +1,14 @@
 # 武汉购房须知
 
 <font face="黑体" color=red size=5>彩蛋</font>
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=red>我是红色</font>
+<font color=#008000>我是绿色</font>
+<font color=Blue>我是蓝色</font>
+<font size=5>我是尺寸</font>
+<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
 ##### [彩蛋](http://flyingd.cn/w/)
 ##### [2019武汉买房条件 武汉买房有什么限制](http://wh.bendibao.com/live/2019122/96162.shtm)
 ##### [2019武汉公积金贷款最高额度是多少](http://wh.bendibao.com/live/2017627/87262.shtm)
