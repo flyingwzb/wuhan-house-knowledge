@@ -10,6 +10,12 @@
 <font size=5>我是尺寸</font>
 <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
 ```
+
+$\color{red}{红色字}$
+
+$\color{#FF0000}{红色字}$
+
+$\color{rgb(255,0,0)}{红色字}$
 ##### [彩蛋](http://flyingd.cn/w/)
 ##### [2019武汉买房条件 武汉买房有什么限制](http://wh.bendibao.com/live/2019122/96162.shtm)
 ##### [2019武汉公积金贷款最高额度是多少](http://wh.bendibao.com/live/2017627/87262.shtm)
