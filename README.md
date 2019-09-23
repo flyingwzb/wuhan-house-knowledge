@@ -10,3 +10,7 @@
 ##### [徐远教授刷新了我对房地产的认识](https://www.jianshu.com/p/60b0ff0731b6)
 ##### [武汉地铁规划图](https://github.com/flyingwzb/Buying-a-house/blob/master/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E5%9B%BE.jpg)
 ##### [公积金贷款还款计算公式](https://github.com/flyingwzb/Buying-a-house/blob/master/%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E8%BF%98%E6%AC%BE%E7%9B%B8%E5%85%B3%E8%AE%A1%E7%AE%97.doc?raw=true)
+##### [容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)
+- 容积率是指一个小区的地上总建筑面积与净用地面积的比率。
+- 容积率越低，居民的舒适度越高。
+- 一般而言，19层以上住宅的容积率为2.4~4.5。
