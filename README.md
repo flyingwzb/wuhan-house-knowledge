@@ -7,12 +7,14 @@
 ##### [外地户口转入武汉户口需要具备哪些条件](http://wh.bendibao.com/live/201996/102731.shtm)
 ##### [2018武汉商业贷款利率](http://wh.bendibao.com/live/2018531/92655.shtm)
 ##### [徐远教授刷新了我对房地产的认识](https://www.jianshu.com/p/60b0ff0731b6)
-##### [武汉地铁规划图](https://github.com/flyingwzb/Buying-a-house/blob/master/%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E8%A7%84%E5%88%92%E5%9B%BE.jpg)
+##### [武汉地铁规划图](https://github.com/flyingwzb/Buying-a-house/blob/master/img/wuhan-subway-plan.jpg?raw=true)
 ##### [公积金贷款还款计算公式](https://github.com/flyingwzb/Buying-a-house/blob/master/%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E8%BF%98%E6%AC%BE%E7%9B%B8%E5%85%B3%E8%AE%A1%E7%AE%97.doc?raw=true)
 ##### [容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)
 - 容积率是指一个小区的地上总建筑面积与净用地面积的比率。
 - 容积率越低，居民的舒适度越高。
 - 一般而言，19层以上住宅的容积率为2.4~4.5。
+##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
+##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
 
 ##### 用地性质
 <div id="expander-2136437052" class="expand-container">
@@ -39,6 +41,4 @@
 <div class="para">城市建设用地分类中英文对照表</div>
 <div class="table-wrap"><table class="confluenceTable"><tbody><tr><td class="confluenceTd"><div class="para">代码</div><div class="para">codes</div></td><td class="confluenceTd"><div class="para">用地类别中文名称</div><div class="para">Chinese</div></td><td class="confluenceTd"><div class="para">英文同（近）义词</div><div class="para">English</div></td></tr><tr><td class="confluenceTd"><div class="para">R</div></td><td class="confluenceTd"><div class="para">居住用地</div></td><td class="confluenceTd"><div class="para">residential</div></td></tr><tr><td class="confluenceTd"><div class="para">A</div></td><td class="confluenceTd"><div class="para">公共管理与公共服务用地</div></td><td class="confluenceTd"><div class="para">administration and public services</div></td></tr><tr><td class="confluenceTd"><div class="para">B</div></td><td class="confluenceTd"><div class="para">商业服务业设施用地</div></td><td class="confluenceTd"><div class="para">commercial and business facilities</div></td></tr><tr><td class="confluenceTd"><div class="para">M</div></td><td class="confluenceTd"><div class="para">工业用地</div></td><td class="confluenceTd"><div class="para">industrial</div></td></tr><tr><td class="confluenceTd"><div class="para">W</div></td><td class="confluenceTd"><div class="para">物流仓储用地</div></td><td class="confluenceTd"><div class="para">logistics and warehouse</div></td></tr><tr><td class="confluenceTd"><div class="para">S</div></td><td class="confluenceTd"><div class="para">道路与交通设施用地</div></td><td class="confluenceTd"><div class="para">road,street and transportation</div></td></tr><tr><td class="confluenceTd"><div class="para">U</div></td><td class="confluenceTd"><div class="para">公用设施用地</div></td><td class="confluenceTd"><div class="para">municipal utilities</div></td></tr><tr><td class="confluenceTd"><div class="para">G</div></td><td class="confluenceTd"><div class="para">绿地与广场用地</div></td><td class="confluenceTd"><div class="para">green space and square</div></td></tr></tbody></table></div>
 
-
-##### [容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)
 
