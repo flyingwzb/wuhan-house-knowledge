@@ -25,7 +25,7 @@
 
 ### 我关注过的楼盘信息
 
-楼盘 | 位置 |
+楼盘 | 位置 | 备注
 --- | --- | ---
 [~~建发·金茂玺悦~~](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900287)  | [🌐](https://surl.amap.com/5OjYYmvx9Om) | 离八号线军运村近2公里，不考虑
 [~~保利上城~~](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1900046) | [🌐](https://surl.amap.com/2bNtUQz62eH) | 已售完，仅一栋绿化2020年底启动
