@@ -20,8 +20,6 @@
 
 ### 地图找房源
 ###### [房天下地图找房](https://wuhan.newhouse.fang.com/house/s/list/)
-###### [房天下地图找房](https://wuhan.newhouse.fang.com/house/s/list/)
-###### [房天下地图找房](https://wuhan.newhouse.fang.com/house/s/list/)
 
 ### 新楼盘信息
 
