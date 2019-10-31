@@ -11,6 +11,7 @@
 ##### [徐远教授刷新了我对房地产的认识](https://www.jianshu.com/p/60b0ff0731b6)
 ##### [武汉地铁规划图](https://github.com/flyingwzb/Buying-a-house/blob/master/img/wuhan-subway-plan.jpg?raw=true)
 ##### [公积金贷款还款计算公式](https://github.com/flyingwzb/Buying-a-house/blob/master/%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E8%BF%98%E6%AC%BE%E7%9B%B8%E5%85%B3%E8%AE%A1%E7%AE%97.doc?raw=true)
+##### [武汉市城市轨道交通第四期建设规划](http://www.ndrc.gov.cn/zcfb/zcfbtz/201901/t20190104_925178.html)
 ##### [容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)
 - 容积率是指一个小区的地上总建筑面积与净用地面积的比率。
 - 容积率越低，居民的舒适度越高。
@@ -79,7 +80,10 @@
     - 皮肤科
     
 ### 大学习落户购房
-- [武汉政务欢迎您！](http://zwfw.hubei.gov.cn/s/index.html)
+- [武汉大学生落户流程](http://m.wh.bendibao.com/live/103562.shtm)
+- [湖北政务服务网](http://zwfw.hubei.gov.cn/s/index.html)
+- [武汉公安云端窗口](http://monitor.mycards.net.cn/index.do)
+- [线上申请落户办事指南](http://monitor.mycards.net.cn/appForm/toGuidePage.do?businesscode=24836881c8b84ee1ae3be798cbfdfb9c)
 - 公积金贷款额度可在支付宝-城市服务-公积金中查询可贷额度，必须在开户日期后6个月才能使用公积金贷款，且缴存日期须满6个月。
 
 
