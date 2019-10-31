@@ -50,11 +50,11 @@
 楼盘 | 位置 | 均价 | 备注
 --- | --- | --- | ---
 [万科金色城市]() | [🌐](https://surl.amap.com/5gME0GzX68v) | 16077 元/平米 | 白沙洲
-[佳兆业·金域天下]() | [🌐](https://surl.amap.com/5jy4dHh1x4mE) | 16735 元/平 | 白沙洲，地铁5号线-青菱站
-[清能清江锦城]() | [🌐](https://surl.amap.com/5mBm9av1A1Lo) | 15172 元/平 | 白沙洲，地铁5号线-青菱站
-[碧桂园生态城]() | [🌐](https://surl.amap.com/5slS8CrZ9W6) | 14013 元/平 | 花山，地铁19号线-花山新城站
-[佳源花都]() | [🌐](https://surl.amap.com/5ukDuSXuaAx) | 14295 元/平 | 高薪二路，二师对面，未来规划有13号线
-[桃花源]() | [🌐](https://surl.amap.com/5wqQpb11qaOB) | 14103 元/平 | 高薪二路，未来规划有13号线
+[佳兆业·金域天下]() | [🌐](https://surl.amap.com/5jy4dHh1x4mE) | 16735 元/平米 | 白沙洲，地铁5号线-青菱站
+[清能清江锦城]() | [🌐](https://surl.amap.com/5mBm9av1A1Lo) | 15172 元/平米 | 白沙洲，地铁5号线-青菱站
+[碧桂园生态城]() | [🌐](https://surl.amap.com/5slS8CrZ9W6) | 14013 元/平米 | 花山，地铁19号线-花山新城站
+[佳源花都]() | [🌐](https://surl.amap.com/5ukDuSXuaAx) | 14295 元/平米 | 高薪二路，二师对面，未来规划有13号线
+[桃花源]() | [🌐](https://surl.amap.com/5wqQpb11qaOB) | 14103 元/平米 | 高薪二路，未来规划有13号线
 [1]() | [🌐]() | 10000 元/平 | 2
 
 
