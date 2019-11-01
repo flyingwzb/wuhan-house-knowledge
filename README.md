@@ -127,7 +127,9 @@
 武汉市中医医院-汉阳院区 |  | [🏥](http://www.whtcm.com/) | 三级甲等中医医院 | [🗺](https://surl.amap.com/IveGx9W874)
 武汉市中医医院-二桥院区 |  | [🏥](http://www.whtcm.com/) | 三级甲等中医医院 | [🗺](https://surl.amap.com/IzATUP1v8Eq)
 武汉市中医医院-台北院区 |  | [🏥](http://www.whtcm.com/) | 三级甲等中医医院 | [🗺](https://surl.amap.com/ICnlU35fKp)
-    
+湖北省肿瘤医院 | 湖北省肿瘤研究所、华中科技大学同济医学院附属湖北肿瘤医院 | [🏥](http://www.hbch.com.cn/) | 大型三级甲等肿瘤专科医院 | [🗺](https://surl.amap.com/wzXPGz1p4Cr)
+
+
 ### 武汉市小学排名
 ##### 评选标准如下：
 - 师资水平20%;
