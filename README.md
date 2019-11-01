@@ -102,7 +102,8 @@
 武汉大学人民医院-首义院区 | 湖北省人民医院、武汉大学第一临床学院 | [🏥](http://www.rmhospital.com/index.aspx) | 国家首批三级甲等医院 | [🗺](https://surl.amap.com/vyvsxV18fIW)
 武汉大学人民医院-光谷东院 | 湖北省人民医院、武汉大学第一临床学院 | [🏥](http://www.rmhospital.com/index.aspx) | 国家首批三级甲等医院 | [🗺](https://surl.amap.com/vPOLOny1iV)
 湖北省第三人民医院 | 湖北省中山医院，原名武汉军工总医院 | [🏥](http://www.hb3rm.com/) | 综合性大型三级甲等医院 | [🗺](https://surl.amap.com/xpY55R1s3Uz)
-湖北省中医院 | 湖北省中医药研究院，湖北中医药大学附属医院 | [🏥](http://www.hbhtcm.com/) | 综合性大型三级甲等医院 | [🗺](https://surl.amap.com/xpY55R1s3Uz)
+湖北省中医院-光谷院区 | 湖北省中医药研究院，湖北中医药大学附属医院 | [🏥](http://www.hbhtcm.com/) | 省级三级甲等中医院 | [🗺](https://surl.amap.com/yCxxCvFa2r)
+中国人民解放军中部战区总医院 | 原广州军区武汉总医院 | [🏥]() | 三级甲等医院 | [🗺](https://surl.amap.com/A79CZ9v3Zg)
     
 ### 武汉市小学排名
 ##### 评选标准如下：
