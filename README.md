@@ -19,8 +19,14 @@
 ##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
 
-### 地图找房源
-###### [房天下地图找房](https://wuhan.newhouse.fang.com/house/s/list/)
+### 大学习落户购房
+- [武汉大学生落户流程](http://m.wh.bendibao.com/live/103562.shtm)
+- [湖北政务服务网](http://zwfw.hubei.gov.cn/s/index.html)
+- [武汉公安云端窗口](http://monitor.mycards.net.cn/index.do)
+- [线上申请落户办事指南](http://monitor.mycards.net.cn/appForm/toGuidePage.do?businesscode=24836881c8b84ee1ae3be798cbfdfb9c)
+- 公积金贷款额度可在支付宝-城市服务-公积金中查询可贷额度，必须在开户日期后6个月才能使用公积金贷款，且缴存日期须满6个月。
+- 当一个区域的新房价格在你们能负担的起的范围内就不建议入手二手房，除非此二手房交通及配套十分完善。
+- [湖北省民政厅](http://mzt.hubei.gov.cn/)
 
 ### 新楼盘信息
 
@@ -131,14 +137,7 @@
 ### 武汉市高中排名
 ![武汉市高中排名](http://5b0988e595225.cdn.sohucs.com/images/20181019/2fd1f5e829384595ae359b02cfdb802a.jpg)
     
-### 大学习落户购房
-- [武汉大学生落户流程](http://m.wh.bendibao.com/live/103562.shtm)
-- [湖北政务服务网](http://zwfw.hubei.gov.cn/s/index.html)
-- [武汉公安云端窗口](http://monitor.mycards.net.cn/index.do)
-- [线上申请落户办事指南](http://monitor.mycards.net.cn/appForm/toGuidePage.do?businesscode=24836881c8b84ee1ae3be798cbfdfb9c)
-- 公积金贷款额度可在支付宝-城市服务-公积金中查询可贷额度，必须在开户日期后6个月才能使用公积金贷款，且缴存日期须满6个月。
-- 当一个区域的新房价格在你们能负担的起的范围内就不建议入手二手房，除非此二手房交通及配套十分完善。
-- [湖北省民政厅](http://mzt.hubei.gov.cn/)
+
 
 
 
