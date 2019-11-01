@@ -113,6 +113,11 @@
 湖北省妇幼保健院-洪山院区 | 湖北省妇女儿童医院、华中科技大学同济医学院附属医院 | [🏥](http://www.hbfy.com/) | 湖北省卫生健康委直属的三级甲等妇幼保健院 | [🗺](https://surl.amap.com/CUh9Ez1gby8)
 湖北省妇幼保健院-徐东门诊部 | 湖北省妇女儿童医院、华中科技大学同济医学院附属医院 | [🏥](http://www.hbfy.com/) | 湖北省卫生健康委直属的三级甲等妇幼保健院 | [🗺](https://surl.amap.com/CRLUgnN4aB)
 湖北省妇幼保健院-丁字桥特殊儿童训练中心 | 湖北省妇女儿童医院、华中科技大学同济医学院附属医院 | [🏥](http://www.hbfy.com/) | 湖北省卫生健康委直属的三级甲等妇幼保健院 | [🗺](https://surl.amap.com/CvxYqb1zaOu)
+武汉儿童医院 | 武汉市妇幼保健院、武汉市妇女儿童医疗保健中心 | [🏥](http://www.zgwhfe.com/) | 全国首批三级甲等儿童专科医院 | [🗺](https://surl.amap.com/EbzUmz1l4f2)
+武汉市第三医院-首义院区 | 武汉大学附属同仁医院 | [🏥](http://www.whsyy.net/) | 大型综合性三级甲等医院 | [🗺](https://surl.amap.com/EKREjZ1ncjK)
+武汉市第三医院-光谷关山院区 | 武汉大学附属同仁医院 | [🏥](http://www.whsyy.net/) | 大型综合性三级甲等医院 | [🗺](https://surl.amap.com/6cnun5F14ST)
+武汉第四医院-武胜路院区 | 武汉市骨科医院、武汉市普爱医院 | [🏥](http://www.puaihospital.net/) | 国家三级甲等综合医院 | [🗺](https://surl.amap.com/F7RpP9R2N3)
+武汉第四医院-古田院区 | 武汉市骨科医院、武汉市普爱医院 | [🏥](http://www.puaihospital.net/) | 国家三级甲等综合医院 | [🗺](https://surl.amap.com/Fj5vZBNbsi)
     
 ### 武汉市小学排名
 ##### 评选标准如下：
