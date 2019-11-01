@@ -118,6 +118,9 @@
 武汉市第三医院-光谷关山院区 | 武汉大学附属同仁医院 | [🏥](http://www.whsyy.net/) | 大型综合性三级甲等医院 | [🗺](https://surl.amap.com/6cnun5F14ST)
 武汉第四医院-武胜路院区 | 武汉市骨科医院、武汉市普爱医院 | [🏥](http://www.puaihospital.net/) | 国家三级甲等综合医院 | [🗺](https://surl.amap.com/F7RpP9R2N3)
 武汉第四医院-古田院区 | 武汉市骨科医院、武汉市普爱医院 | [🏥](http://www.puaihospital.net/) | 国家三级甲等综合医院 | [🗺](https://surl.amap.com/Fj5vZBNbsi)
+武汉大学口腔医院 | 湖北医科大学口腔医院 | [🏥](https://www.whuss.com/) | 三级甲等专科医院 | [🗺](https://surl.amap.com/GATJNle2FI)
+武汉市精神卫生中心 | 武汉市心理医院 | [🏥](http://www.chinapsy.com/) | 湖北省首家“三级甲等”精神专科医院 | [🗺](https://surl.amap.com/GOfawv1rdIc)
+武汉市第一医院 | 武汉市中西医结合医院 | [🏥](http://www.whyyy.com.cn/) | 大型综合性三级甲等医院 | [🗺](https://surl.amap.com/7tov1R155sj)
     
 ### 武汉市小学排名
 ##### 评选标准如下：
