@@ -97,6 +97,12 @@
 协和医院本部 | 华中科技大学同济医学院附属协和医院 | [🏥](http://www.whuh.com/) | 国家卫计委直属大型综合性医院、国家首批三级甲等医院 | [🗺](https://surl.amap.com/rPQA1hL27x)
 协和医院西院 | 华中科技大学同济医学院附属协和医院 | [🏥](http://www.whuh.com/) | 国家卫计委直属大型综合性医院、国家首批三级甲等医院 | [🗺](https://surl.amap.com/swZsTl23Mr)
 协和医院肿瘤中心 | 华中科技大学同济医学院附属协和医院 | [🏥](http://www.whuh.com/) | 国家卫计委直属大型综合性医院、国家首批三级甲等医院 | [🗺](https://surl.amap.com/supBld1b6d9)
+武汉市中心医院-南京路院区 | 武汉市第二医院 | [🏥](http://www.zxhospital.com/) | 大型现代化三级甲等医院 | [🗺](https://surl.amap.com/s4giZVw9yL)
+武汉市中心医院-后湖院区 | 武汉市第二医院 | [🏥](http://www.zxhospital.com/) | 大型现代化三级甲等医院 | [🗺](https://surl.amap.com/supBld1b6d9)
+武汉大学人民医院-首义院区 | 湖北省人民医院、武汉大学第一临床学院 | [🏥](http://www.rmhospital.com/index.aspx) | 国家首批三级甲等医院 | [🗺](https://surl.amap.com/vyvsxV18fIW)
+武汉大学人民医院-光谷东院 | 湖北省人民医院、武汉大学第一临床学院 | [🏥](http://www.rmhospital.com/index.aspx) | 国家首批三级甲等医院 | [🗺](https://surl.amap.com/vPOLOny1iV)
+湖北省第三人民医院 | 湖北省中山医院，原名武汉军工总医院 | [🏥](http://www.hb3rm.com/) | 综合性大型三级甲等医院 | [🗺](https://surl.amap.com/xpY55R1s3Uz)
+湖北省中医院 | 湖北省中医药研究院，湖北中医药大学附属医院 | [🏥](http://www.hbhtcm.com/) | 综合性大型三级甲等医院 | [🗺](https://surl.amap.com/xpY55R1s3Uz)
     
 ### 武汉市小学排名
 ##### 评选标准如下：
