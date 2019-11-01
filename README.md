@@ -121,6 +121,12 @@
 武汉大学口腔医院 | 湖北医科大学口腔医院 | [🏥](https://www.whuss.com/) | 三级甲等专科医院 | [🗺](https://surl.amap.com/GATJNle2FI)
 武汉市精神卫生中心 | 武汉市心理医院 | [🏥](http://www.chinapsy.com/) | 湖北省首家“三级甲等”精神专科医院 | [🗺](https://surl.amap.com/GOfawv1rdIc)
 武汉市第一医院 | 武汉市中西医结合医院 | [🏥](http://www.whyyy.com.cn/) | 大型综合性三级甲等医院 | [🗺](https://surl.amap.com/7tov1R155sj)
+武汉市金银潭医院 | 武汉市医疗救治中心 | [🏥](http://www.whyljz.com.cn/) | 武汉市卫计委直属三级甲等专科医院 | [🗺](https://surl.amap.com/OxCrN80hd)
+武汉科技大学附属天佑医院 | 武汉科技大学附属医院、天佑医院 | [🏥](http://www.wkdty.com/) | 国家三级甲等公立医院 | [🗺](https://surl.amap.com/HQT5G7adgi)
+武汉市中医医院-汉口院区 |  | [🏥](http://www.whtcm.com/) | 三级甲等中医医院 | [🗺](https://surl.amap.com/Ir79F5A4Fk)
+武汉市中医医院-汉阳院区 |  | [🏥](http://www.whtcm.com/) | 三级甲等中医医院 | [🗺](https://surl.amap.com/IveGx9W874)
+武汉市中医医院-二桥院区 |  | [🏥](http://www.whtcm.com/) | 三级甲等中医医院 | [🗺](https://surl.amap.com/IzATUP1v8Eq)
+武汉市中医医院-台北院区 |  | [🏥](http://www.whtcm.com/) | 三级甲等中医医院 | [🗺](https://surl.amap.com/ICnlU35fKp)
     
 ### 武汉市小学排名
 ##### 评选标准如下：
