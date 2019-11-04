@@ -38,7 +38,7 @@
 [保利·军运城](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1800549) | [🌐](https://surl.amap.com/2mhzIgr1l14E) | 预算内，能不能抢到105平的看运气
 [东原启城](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800709) | [🌐](https://surl.amap.com/2ZcGQPFL7WU) | 装修全款，目前最低户型112平，首付超预算不少。
 [中建铂公馆](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1900050) | [🌐](https://surl.amap.com/2ozdJaXa68O) | 贵
-[金融街·金悦府](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900270) | [🌐](https://surl.amap.com/36uPE8bd3iO) | 文化大道神盘，地铁7号线-大花岭站
+[金融街·金悦府](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900270) | [🌐](https://surl.amap.com/36uPE8bd3iO) | 文化大道神盘，地铁7号线-大花岭站，距离有点远
 [翰林尚苑](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800248) | [🌐](https://surl.amap.com/4dgtqdtVbVt) | 地铁7号线-新路村站
 [武汉雅居乐花园](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900673) | [🌐](https://surl.amap.com/99xgr5MbS5) | 没有地铁，地铁9号线待规划
 [旭辉都会山]() | [🌐](https://surl.amap.com/2TkRHJ51b1Yi) | 地铁5号线-南三环站
