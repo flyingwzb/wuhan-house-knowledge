@@ -10,6 +10,7 @@
 ##### [2018武汉商业贷款利率](http://wh.bendibao.com/live/2018531/92655.shtm)
 ##### [徐远教授刷新了我对房地产的认识](https://www.jianshu.com/p/60b0ff0731b6)
 ##### [武汉地铁规划图](https://github.com/flyingwzb/Buying-a-house/blob/master/img/wuhan-subway-plan.jpg?raw=true)
+- ![武汉地铁规划图](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/wuhan-subway-plan.jpg?raw=true)
 ##### [公积金贷款还款计算公式](https://github.com/flyingwzb/Buying-a-house/blob/master/%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E8%BF%98%E6%AC%BE%E7%9B%B8%E5%85%B3%E8%AE%A1%E7%AE%97.doc?raw=true)
 ##### [武汉市城市轨道交通第四期建设规划](http://www.ndrc.gov.cn/zcfb/zcfbtz/201901/t20190104_925178.html)
 ##### [容积率](https://baike.baidu.com/item/%E5%AE%B9%E7%A7%AF%E7%8E%87/1397682?fr=aladdin)
@@ -18,7 +19,7 @@
 - 一般而言，19层以上住宅的容积率为2.4~4.5。
 ##### [公摊面积](https://mp.weixin.qq.com/s/gXyep-k2KWArSf4ZbUA7GQ)
 - 公用建筑面积包括：电梯井、过道走廊、管道井、公共门厅过道、楼梯间、共用墙体和设备间。
-- ![公摊面积]()
+- ![公摊面积](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/Pool-area.jpg?raw=true)
 ##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
 
