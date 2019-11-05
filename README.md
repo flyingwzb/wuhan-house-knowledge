@@ -19,6 +19,7 @@
 - 一般而言，19层以上住宅的容积率为2.4~4.5。
 ##### [公摊面积](https://mp.weixin.qq.com/s/gXyep-k2KWArSf4ZbUA7GQ)
 - 公用建筑面积包括：电梯井、过道走廊、管道井、公共门厅过道、楼梯间、共用墙体和设备间。
+- 如果房子的建筑面积为100平米，其公摊比例为20%，那么，我们实际的套内建筑面积则为80平米，而套内的实际使用面积，可能就只剩下70多平米了。
 - ![公摊面积](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/Pool-area.jpg?raw=true)
 ##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
