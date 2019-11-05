@@ -16,6 +16,9 @@
 - 容积率是指一个小区的地上总建筑面积与净用地面积的比率。
 - 容积率越低，居民的舒适度越高。
 - 一般而言，19层以上住宅的容积率为2.4~4.5。
+##### [公摊面积](https://mp.weixin.qq.com/s/gXyep-k2KWArSf4ZbUA7GQ)
+- 公用建筑面积包括：电梯井、过道走廊、管道井、公共门厅过道、楼梯间、共用墙体和设备间。
+- ![公摊面积]()
 ##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
 
