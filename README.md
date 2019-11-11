@@ -12,8 +12,6 @@
 - [请我喝瓶雪碧](#请我喝瓶雪碧)
 
 
-
-
 # 武汉购房须知
 
 ##### [2019武汉买房条件 武汉买房有什么限制](http://wh.bendibao.com/live/2019122/96162.shtm)
@@ -34,9 +32,11 @@
 ##### [公摊面积](https://mp.weixin.qq.com/s/gXyep-k2KWArSf4ZbUA7GQ)
 - 公用建筑面积包括：电梯井、过道走廊、管道井、公共门厅过道、楼梯间、共用墙体和设备间。
 - 如果房子的建筑面积为100平米，其公摊比例为20%，那么，我们实际的套内建筑面积则为80平米，而套内的实际使用面积，可能就只剩下70多平米了。
+- [为什么楼层越高公摊越多？公摊越小越好吗？](https://new.qq.com/omn/HOS20191/HOS2019110600060100.html)
 - ![公摊面积](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/Pool-area.jpg?raw=true)
 ##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
+
 
 ### 大学习落户购房
 - [武汉大学生落户流程](http://m.wh.bendibao.com/live/103562.shtm)
@@ -46,6 +46,7 @@
 - 公积金贷款额度可在支付宝-城市服务-公积金中查询可贷额度，必须在开户日期后6个月才能使用公积金贷款，且缴存日期须满6个月。
 - 当一个区域的新房价格在你们能负担的起的范围内就不建议入手二手房，除非此二手房交通及配套十分完善。
 - [湖北省民政厅](http://mzt.hubei.gov.cn/)
+
 
 ### 新楼盘信息
 
@@ -83,8 +84,8 @@
 [桃花源]() | [🌐](https://surl.amap.com/5wqQpb11qaOB) | 14103 元/平米 | 高薪二路，未来规划有13号线
 [1]() | [🌐]() | 10000 元/平米 | 2
 
+
 ### 购房深度好文
-- [刚需买房指南](https://mp.weixin.qq.com/s/2nLtFH3E_ilaejU1YaCi7A)
 - [刚需买房指南](https://mp.weixin.qq.com/s/2nLtFH3E_ilaejU1YaCi7A)
 
 
