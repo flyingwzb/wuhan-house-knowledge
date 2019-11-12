@@ -88,6 +88,7 @@
 
 ### 购房深度好文
 - [刚需买房指南](https://mp.weixin.qq.com/s/2nLtFH3E_ilaejU1YaCi7A)
+- [商业贷款转公积金贷款](https://mp.weixin.qq.com/s/EnR0DnyrKmbZVGXq_W-WPA)
 
 
 ### 武汉市各区的特点
