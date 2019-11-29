@@ -36,6 +36,7 @@
 - ![公摊面积](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/Pool-area.jpg?raw=true)
 ##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
+##### [武汉市中星公证处-公示信息](http://www.whzxgz.cn/InfoMore.aspx?id=2)
 
 
 ### 大学习落户购房
@@ -89,7 +90,6 @@
 ### 购房深度好文
 - [刚需买房指南](https://mp.weixin.qq.com/s/2nLtFH3E_ilaejU1YaCi7A)
 - [商业贷款转公积金贷款](https://mp.weixin.qq.com/s/EnR0DnyrKmbZVGXq_W-WPA)
-
 
 
 ### 武汉市各区的特点
@@ -206,7 +206,3 @@
 
 
 [回到顶部](#readme)
-
-
-
-
