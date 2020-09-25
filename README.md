@@ -34,7 +34,8 @@
 - 如果房子的建筑面积为100平米，其公摊比例为20%，那么，我们实际的套内建筑面积则为80平米，而套内的实际使用面积，可能就只剩下70多平米了。
 - [为什么楼层越高公摊越多？公摊越小越好吗？](https://new.qq.com/omn/HOS20191/HOS2019110600060100.html)
 - ![公摊面积](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/Pool-area.jpg?raw=true)
-##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/zz_spfxmcx_index.jspx)
+##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/bsfw_44/zxsbhcxxt/spfxm/)
+##### [武汉市房地产经纪服务平台-二手房](http://esf.whfgxx.org.cn/New/publish/)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
 ##### [武汉市中星公证处-公示信息](http://www.whzxgz.cn/InfoMore.aspx?id=2)
 
