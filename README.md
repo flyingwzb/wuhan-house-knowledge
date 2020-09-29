@@ -1,5 +1,5 @@
 扫码加微信（微信ID：W_zhibiao），备注：武汉购房，进群讨论。
-![武汉地铁规划图](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/weixin.jpg?raw=true)
+![微信号](https://upload-images.jianshu.io/upload_images/19732611-6f6b3e0b748d6dc4.jpg)
 
 
 杭州购房经验知识分享：[https://github.com/houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
