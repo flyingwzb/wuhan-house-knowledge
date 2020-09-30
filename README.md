@@ -41,6 +41,7 @@
 - ![公摊面积](https://github.com/flyingwzb/wuhan-house-knowledge/blob/master/Pool-area.jpg?raw=true)
 ##### [武汉市商品房项目查询](http://fgj.wuhan.gov.cn/bsfw_44/zxsbhcxxt/spfxm/)
 ##### [武汉市房地产经纪服务平台-二手房](http://esf.whfgxx.org.cn/New/publish/)
+##### [武汉市自然资源和规划局](http://zrzyhgh.wuhan.gov.cn/)
 ##### [购房贷款计算器](https://wuhan.newhouse.fang.com/house/tools.htm)
 ##### [武汉市中星公证处-公示信息](http://www.whzxgz.cn/InfoMore.aspx?id=2)
 
@@ -59,8 +60,8 @@
 
 楼盘 | 位置 | 备注
 --- | --- | ---
-[~~建发·金茂玺悦~~](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900287)  | [🌐](https://surl.amap.com/5OjYYmvx9Om) | 离八号线军运村近2公里，不考虑
-[~~保利上城~~](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1900046) | [🌐](https://surl.amap.com/2bNtUQz62eH) | 已售完，仅一栋楼(销售中心绿地位置)2020年底启动
+[~~建发·金茂玺悦~~](http://119.97.201.22:8083/search/spfxmcx/spfcx_mx.aspx?DengJH=%CF%C41900287)  | [🌐](https://surl.amap.com/5OjYYmvx9Om) | 离八号线军运村近2公里，不考虑
+[~~保利上城~~](http://119.97.201.22:8083/search/spfxmcx/spfcx_mx.aspx?DengJH=%BA%E91900046) | [🌐](https://surl.amap.com/2bNtUQz62eH) | 已售完，仅一栋楼(销售中心绿地位置)2020年底启动
 [~~旭辉华宇江悦府~~](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800580) | [🌐](https://surl.amap.com/2bNtUQz62eH) | 预算内，位置不好，看不到前景
 [保利·军运城](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1800549) | [🌐](https://surl.amap.com/2mhzIgr1l14E) | 预算内，能不能抢到105平的看运气
 [东原启城](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800709) | [🌐](https://surl.amap.com/2ZcGQPFL7WU) | 装修全款，目前最低户型112平，首付超预算不少。
@@ -81,6 +82,14 @@
 
 
 ### 二手房信息
+
+##### 满二唯一与满五唯一
+- 商品房是以契税完税发票填发日期或房产证登记日期孰先原则计算是否满2年或者满5年。
+- 满二唯一：是指房子产权满两年 且是唯一一套房产，免征增值税
+- 满五唯一：是指房子产权满五年 且是唯一一套房产，免征增值税和个税
+- 满二唯一和满五唯一的区别在于税方面，符合满五唯一条件的房屋是不用交纳个人所得税和增值税的。
+- 而满二唯一中，只有满二是免征增值税的关键条件，即普通住宅无论是否唯一只要满足了满两年的条件就可以免征增值税了。
+
 
 楼盘 | 位置 | 均价 | 备注
 --- | --- | --- | ---
