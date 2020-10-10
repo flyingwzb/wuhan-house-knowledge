@@ -1,4 +1,7 @@
-扫码加微信（微信ID：W_zhibiao），备注：武汉购房，进群讨论。
+扫码进群(群号：336014031)，备注：武汉购房，进群讨论。
+![QQ群](https://upload-images.jianshu.io/upload_images/19732611-32a094811148ec59.jpg)
+点击链接加入群聊【武汉购房交流群】：https://jq.qq.com/?_wv=1027&k=vTR4jUUS
+
 ![微信号](https://upload-images.jianshu.io/upload_images/19732611-6f6b3e0b748d6dc4.jpg)
 
 
