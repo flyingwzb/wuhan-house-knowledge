@@ -1,13 +1,7 @@
 - 点击链接加入群聊【武汉购房交流群】：https://jq.qq.com/?_wv=1027&k=vTR4jUUS
-
-扫码进群(群号：336014031)，备注：武汉购房，进群讨论。
-![QQ群](https://upload-images.jianshu.io/upload_images/19732611-920ce6f97c9e9e9a.jpg)
-
-
-
-
-
-杭州购房经验知识分享：[https://github.com/houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
+- 扫码进群(群号：336014031)，备注：武汉购房，进群讨论。
+    - ![QQ群](https://upload-images.jianshu.io/upload_images/19732611-920ce6f97c9e9e9a.jpg)
+- 杭州购房经验知识分享：[https://github.com/houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
 
 #### 目录
 - [大学习落户购房](#大学习落户购房)
