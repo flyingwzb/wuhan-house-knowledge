@@ -1,8 +1,10 @@
-扫码进群(群号：336014031)，备注：武汉购房，进群讨论。
-![QQ群](https://upload-images.jianshu.io/upload_images/19732611-32a094811148ec59.jpg)
-点击链接加入群聊【武汉购房交流群】：https://jq.qq.com/?_wv=1027&k=vTR4jUUS
+- 点击链接加入群聊【武汉购房交流群】：https://jq.qq.com/?_wv=1027&k=vTR4jUUS
 
-![微信号](https://upload-images.jianshu.io/upload_images/19732611-6f6b3e0b748d6dc4.jpg)
+扫码进群(群号：336014031)，备注：武汉购房，进群讨论。
+![QQ群](https://upload-images.jianshu.io/upload_images/19732611-920ce6f97c9e9e9a.jpg)
+
+
+
 
 
 杭州购房经验知识分享：[https://github.com/houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
@@ -223,4 +225,6 @@
 ![微信赞助](https://upload-images.jianshu.io/upload_images/19732611-7433d3dd70c3f02d.jpg)  | 💴  💴  💴  💴  💴  💴  💴  💴 | ![支付宝赞助](https://upload-images.jianshu.io/upload_images/19732611-e6a3f541a5e9f85b.jpg)
 
 
+### 个人微信
+![微信号](https://upload-images.jianshu.io/upload_images/19732611-6f6b3e0b748d6dc4.jpg)
 [回到顶部](#readme)
