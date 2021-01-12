@@ -55,32 +55,11 @@
 - [湖北省民政厅](http://mzt.hubei.gov.cn/)
 
 
-### 新楼盘信息
+### 新房-商品房查询
+- http://fgj.wuhan.gov.cn/bsfw_44/zxsbhcxxt/spfxm/
 
-楼盘 | 位置 | 备注
---- | --- | ---
-[~~建发·金茂玺悦~~](http://119.97.201.22:8083/search/spfxmcx/spfcx_mx.aspx?DengJH=%CF%C41900287)  | [🌐](https://surl.amap.com/5OjYYmvx9Om) | 离八号线军运村近2公里，不考虑
-[~~保利上城~~](http://119.97.201.22:8083/search/spfxmcx/spfcx_mx.aspx?DengJH=%BA%E91900046) | [🌐](https://surl.amap.com/2bNtUQz62eH) | 已售完，仅一栋楼(销售中心绿地位置)2020年底启动
-[~~旭辉华宇江悦府~~](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800580) | [🌐](https://surl.amap.com/2bNtUQz62eH) | 预算内，位置不好，看不到前景
-[保利·军运城](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1800549) | [🌐](https://surl.amap.com/2mhzIgr1l14E) | 预算内，能不能抢到105平的看运气
-[东原启城](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800709) | [🌐](https://surl.amap.com/2ZcGQPFL7WU) | 装修全款，目前最低户型112平，首付超预算不少。
-[中建铂公馆](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1900050) | [🌐](https://surl.amap.com/2ozdJaXa68O) | 贵
-[金融街·金悦府](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900270) | [🌐](https://surl.amap.com/36uPE8bd3iO) | 文化大道神盘，地铁7号线-大花岭站，距离1公里。
-[翰林尚苑](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800248) | [🌐](https://surl.amap.com/4dgtqdtVbVt) | 地铁7号线-新路村站
-[武汉雅居乐花园](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900673) | [🌐](https://surl.amap.com/99xgr5MbS5) | 没有地铁，地铁9号线待规划
-[旭辉都会山]() | [🌐](https://surl.amap.com/2TkRHJ51b1Yi) | 地铁5号线-南三环站
-[长投绿城·兰园](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900185) | [🌐](https://surl.amap.com/2XyLPvV1r9Qz) | 江夏神盘+品质
-[武汉融创城](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E5%A4%8F1900857) | [🌐](https://surl.amap.com/3T0OJjN1k7Rh) | 地铁8号线-军运村站，公摊19.5，缺配套，看规划
-[城投·四新之光](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E9%98%B31900537) | [🌐](https://surl.amap.com/41n0INN1j2uR) | 地铁12号线-博览路站，汉阳神盘，三环内
-[中粮光谷祥云](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B9%961900522) | [🌐](https://surl.amap.com/48vl6YDcarP) | 地铁11号线-光谷生物园站，东湖新区超低价楼盘
-[兰亭大境](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E9%98%B31900326) | [🌐](https://surl.amap.com/1AeTs3l47Rh) | 地铁6号线-老关村站
-[岱家山庄](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B9%961900581) | [🌐](https://surl.amap.com/4zoNQqr12bUV) | 待规划，地铁13号线，未来可期
-[富强·天惠园](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B4%AA1800805) | [🌐](https://surl.amap.com/6uL5XR90Fq) | 白沙洲毛坯，公摊22，看不到能想享受到的配套
-[联投光谷瑞园](http://fgj.wuhan.gov.cn/zz_spfxmcx_mx.jspx?dengJh=%E6%B9%961900379) | [🌐](https://surl.amap.com/1UpKh3l1gbRo) | 光谷东毛坯新房，城铁花山南站，地铁19号线-花山河站
-[1]() | [🌐]() | 2
-
-
-### 二手房信息
+### 二手房-交易平台信息查询
+- http://esf.whfgxx.org.cn/New/publish/
 
 ##### 满二唯一与满五唯一
 - 商品房是以契税完税发票填发日期或房产证登记日期孰先原则计算是否满2年或者满5年。
@@ -89,16 +68,6 @@
 - 满二唯一和满五唯一的区别在于税方面，符合满五唯一条件的房屋是不用交纳个人所得税和增值税的。
 - 而满二唯一中，只有满二是免征增值税的关键条件，即普通住宅无论是否唯一只要满足了满两年的条件就可以免征增值税了。
 
-
-楼盘 | 位置 | 均价 | 备注
---- | --- | --- | ---
-[万科金色城市]() | [🌐](https://surl.amap.com/5gME0GzX68v) | 16077 元/平米 | 白沙洲
-[佳兆业·金域天下]() | [🌐](https://surl.amap.com/5jy4dHh1x4mE) | 16735 元/平米 | 白沙洲，地铁5号线-青菱站
-[清能清江锦城]() | [🌐](https://surl.amap.com/5mBm9av1A1Lo) | 15172 元/平米 | 白沙洲，地铁5号线-青菱站
-[碧桂园生态城]() | [🌐](https://surl.amap.com/5slS8CrZ9W6) | 14013 元/平米 | 花山，地铁19号线-花山新城站
-[佳源花都]() | [🌐](https://surl.amap.com/5ukDuSXuaAx) | 14295 元/平米 | 高薪二路，二师对面，未来规划有13号线
-[桃花源]() | [🌐](https://surl.amap.com/5wqQpb11qaOB) | 14103 元/平米 | 高薪二路，未来规划有13号线
-[1]() | [🌐]() | 10000 元/平米 | 2
 
 
 ### 购房深度好文
