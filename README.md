@@ -54,12 +54,14 @@
 - 当一个区域的新房价格在你们能负担的起的范围内就不建议入手二手房，除非此二手房交通及配套十分完善。
 - [湖北省民政厅](http://mzt.hubei.gov.cn/)
 
+### 武汉市规划一张图
+- [武汉市规划一张图](http://whonemap.zrzyhgh.wuhan.gov.cn:8020/)
 
 ### 新房-商品房查询
-- http://fgj.wuhan.gov.cn/bsfw_44/zxsbhcxxt/spfxm/
+- [商品房项目](http://fgj.wuhan.gov.cn/bsfw_44/zxsbhcxxt/spfxm/)
 
 ### 二手房-交易平台信息查询
-- http://esf.whfgxx.org.cn/New/publish/
+- [武汉市房地产经纪服务平台](http://esf.whfgxx.org.cn/New/publish/)
 
 ##### 满二唯一与满五唯一
 - 商品房是以契税完税发票填发日期或房产证登记日期孰先原则计算是否满2年或者满5年。
