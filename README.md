@@ -204,8 +204,5 @@
 ![微信赞助](https://upload-images.jianshu.io/upload_images/19732611-7433d3dd70c3f02d.jpg)  | 💴  💴  💴  💴  💴  💴  💴  💴 | ![支付宝赞助](https://upload-images.jianshu.io/upload_images/19732611-e6a3f541a5e9f85b.jpg)
 
 
-### 个人微信（如有沟通交流需求可拉微信群）
-- ![微信号](https://upload-images.jianshu.io/upload_images/19732611-6f6b3e0b748d6dc4.jpg)
-
 
 [回到顶部](#readme)
